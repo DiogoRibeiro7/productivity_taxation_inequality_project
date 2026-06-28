@@ -1,0 +1,5 @@
+metric,value
+poverty_gdp_spearman,-0.7838595623965487
+gdp_gini_spearman,-0.33624886043903435
+high_income_gini_range,0.25915828347206116
+median_gini_reduction_after_tax_transfer_percent,33.101852
