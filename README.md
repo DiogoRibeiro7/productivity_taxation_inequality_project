@@ -54,3 +54,9 @@ The notebook uses local cached CSV files under `data/` and writes figures and su
 ## Note on interpretation
 
 The central analytical distinction is simple: poverty and inequality are not the same thing. GDP per capita is an average, while inequality is a distributional property. A poverty-versus-income chart cannot, by itself, establish claims about taxation or the distribution of gains.
+
+## Licence
+
+Code is [MIT](LICENSE). Data, derived tables and manuscript text are
+[CC BY 4.0](LICENSE-DATA.md). Third-party source data keeps its provider's terms — see
+[`LICENSE-DATA.md`](LICENSE-DATA.md).
